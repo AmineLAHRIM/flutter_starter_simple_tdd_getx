@@ -1,0 +1,21 @@
+{
+  "id": 10,
+  "university_info": {
+    "id": 4,
+    "name": "university 4",
+    "photo": null
+  },
+  "created_at": "21/01/2021 12:39:19",
+  "updated_at": "05/02/2021 20:28:33",
+  "phone_number": null,
+  "profile_picture": "/media/profiles/scaled_image_picker3095684403535254738.jpg",
+  "profile_picture_thumb": "/media/profiles/thumbs/scaled_image_picker3095684403535254738.jpg",
+  "degree": "IT Licence",
+  "first_name": "Amine",
+  "last_name": "lahrim",
+  "email": "****************@gmail.com",
+  "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTYxMjg5NDY0MiwianRpIjoiMzJkYTc5N2ZmNTdmNDY1ODhiZmI5OGMyYjA4OTZhYmQiLCJ1c2VyX2lkIjoxMX0.m2aI9PCUo5GGs6jDe5_lILpSt-yhSa1ZxyL6DtaMY9E",
+  "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjEyNjc4NjQyLCJqdGkiOiJlMGNlN2M2YTg0ZmQ0OTVhOWI3NzM4M2RjODA4MzA4NSIsInVzZXJfaWQiOjExfQ.yugVi_8vHabsU_yFV_R99rSa-l5lL994U_cAfCWVA1k",
+  "access_expiry_at": "07/02/2021 06:17:22",
+  "refresh_expiry_at": "09/02/2021 18:17:22"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 39,
+  "university_info": {
+    "id": 1,
+    "name": "university 1",
+    "photo": null
+  },
+  "created_at": "06/02/2021 17:22:32",
+  "updated_at": "06/02/2021 17:22:32",
+  "phone_number": null,
+  "profile_picture": null,
+  "profile_picture_thumb": null,
+  "degree": null,
+  "first_name": "****************",
+  "last_name": "****************",
+  "email": "admin@****************"
+}

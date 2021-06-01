@@ -1,0 +1,17 @@
+{
+  "id": 10,
+  "university_info": {
+    "id": 4,
+    "name": "university 4",
+    "photo": null
+  },
+  "created_at": "21/01/2021 12:39:19",
+  "updated_at": "13/02/2021 11:53:44",
+  "phone_number": null,
+  "profile_picture": "/media/profiles/scaled_image_picker6438210375596926599.jpg",
+  "profile_picture_thumb": "/media/profiles/thumbs/scaled_image_picker6438210375596926599.jpg",
+  "degree": "IT Licence",
+  "first_name": "amine",
+  "last_name": "****************",
+  "email": "****************@gmail.com"
+}

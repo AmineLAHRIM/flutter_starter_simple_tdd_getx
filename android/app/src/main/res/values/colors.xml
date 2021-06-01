@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_color">#192032</color>
+    <color name="splash_color_op">#99192032</color>
+    <color name="status_bar_color">#192032</color>
+    <color name="nav_bar_color">#192032</color>
+
+
+    <color name="background_color">#192032</color>
+    <color name="button_color">#4A62E2</color>
+    <color name="selected_color">#F82956</color>
+
+    <color name="gnt_white">#FFFFFF</color>
+
+</resources>

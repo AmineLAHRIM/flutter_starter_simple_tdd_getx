@@ -1,0 +1,146 @@
+name: flutter_starter
+description: Luna App for University App.
+
+publish_to: 'none'
+
+
+version: 0.0.1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_svg:
+  # cache image
+  cached_network_image:
+  # Http client
+  dio:
+  # for links
+  url_launcher:
+  # auto sizing text
+  #auto_size_text:
+  auto_size_text: ^3.0.0-nullsafety.0
+  intl:
+  # dependency injection
+  get_it:
+  injectable:
+  # state management
+  #get:
+  get:
+  http:
+  # Either left or right result
+  #dartz:
+  dartz: ^0.10.0-nullsafety.2
+  # check for connectivity
+  #data_connection_checker:
+  connectivity:
+  # store data locally
+  shared_preferences:
+  # unit testing
+  mockito:
+  # value equality
+  equatable:
+  # concept attribute inside class
+  freezed_annotation:
+  # eva icons
+  eva_icons_flutter:
+  # search dropdown
+  #  dropdown_search:
+  # image picker (camera,photos..)
+  image_picker:
+  # native splash screen
+  flutter_native_splash:
+  # date picker
+  syncfusion_flutter_datepicker:
+  # location
+  location:
+  #location:
+  # webView
+  webview_flutter:
+  # keyboard_visiblity
+  flutter_keyboard_visibility:
+  # Add the dependency for the Firebase Core Flutter SDK
+  firebase_core:
+  # Add the dependency for the FlutterFire plugin for Google Analytics
+  firebase_remote_config:
+  firebase_analytics:
+  firebase_messaging:
+  firebase_auth:
+  flutter_local_notifications:
+  path_provider:
+  #store local date
+  hive:
+  hive_flutter:
+  uuid:
+  # firebase admob
+  #firebase_admob:
+  # admob native ad
+  #flutter_native_admob:
+  #facebook_audience_network:
+  #native_ads:
+  #google_mobile_ads:
+  google_mobile_ads:
+  #infinite scroll
+  infinite_scroll_pagination:
+  align_positioned:
+  #loading animation
+  shimmer:
+
+
+
+  # to create GOOGLE_APPLICATION_CREDENTIALS
+  googleapis_auth:
+  #entry:
+  # entry animation
+  simple_animations:
+
+  # get dominant color in an image
+  palette_generator:
+  # to make placeholder transparent
+  #transparent_image:
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons:
+
+dev_dependencies:
+  build_runner:
+  freezed:
+  hive_generator:
+  #for unit testing
+  http_mock_adapter:
+
+  injectable_generator:
+  change_app_package_name:
+
+  flutter_launcher_icons:
+
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - android/app/build.gradle
+
+  fonts:
+    - family: Proxima Nova
+      fonts:
+        - asset: assets/fonts/Proxima-Nova-Thin.otf
+          weight: 200
+        - asset: assets/fonts/Proxima-Nova-Regular.otf
+          weight: 400
+        - asset: assets/fonts/Proxima-Nova-Bold.otf
+          weight: 700
+        - asset: assets/fonts/Proxima-Nova-Extrabold.otf
+          weight: 800

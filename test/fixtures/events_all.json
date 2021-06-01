@@ -1,0 +1,359 @@
+{
+  "events": [
+    {
+      "id": 20,
+      "category_info": {
+        "name": "Sports"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 67,
+        "name": "sauravsidtestddf"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "15/01/2021 11:46:34",
+      "updated_at": "15/01/2021 11:46:34",
+      "address": "address test",
+      "country": "country test",
+      "city": "city test",
+      "point": "SRID=4326;POINT (14.665547 25.165173)",
+      "name": "new event 2",
+      "start_date": "26/09/2021 10:00:00",
+      "end_date": "26/09/2021 12:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "test description",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 1,
+      "event_type": null,
+      "society": 67,
+      "is_favorite": true
+    },
+    {
+      "id": 19,
+      "category_info": {
+        "name": "Sports"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "12/01/2021 14:46:47",
+      "updated_at": "12/01/2021 14:46:47",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "saurav new ev",
+      "start_date": "13/01/2021 00:00:00",
+      "end_date": "21/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.saurav.com",
+      "description": "tesing saurav event",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 1,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 18,
+      "category_info": {
+        "name": "Exhibition"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 16:34:35",
+      "updated_at": "11/01/2021 16:34:35",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "event new name",
+      "start_date": "12/01/2021 00:00:00",
+      "end_date": "14/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "asd asd asd",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 2,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 17,
+      "category_info": {
+        "name": "Exhibition"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:47:18",
+      "updated_at": "11/01/2021 12:47:18",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "sayrsv",
+      "start_date": "13/01/2021 00:00:00",
+      "end_date": "28/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.staters.com",
+      "description": "saurav",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 2,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 16,
+      "category_info": {
+        "name": "Exhibition"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:43:18",
+      "updated_at": "11/01/2021 12:43:18",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "sdfsfds",
+      "start_date": "13/01/2021 00:00:00",
+      "end_date": "30/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "sfsfdsf",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 2,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 15,
+      "category_info": {
+        "name": "Sports"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:41:56",
+      "updated_at": "11/01/2021 12:41:56",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "asdsdsdd",
+      "start_date": "12/01/2021 00:00:00",
+      "end_date": "14/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "adadasdad",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 1,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": false
+    },
+    {
+      "id": 14,
+      "category_info": {
+        "name": "Exhibition"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:25:33",
+      "updated_at": "11/01/2021 12:25:33",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "sauravvs",
+      "start_date": "16/01/2021 00:00:00",
+      "end_date": "28/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "testing sauyrac",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 2,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 13,
+      "category_info": {
+        "name": "Exhibition"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:24:44",
+      "updated_at": "11/01/2021 12:24:44",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "saurav",
+      "start_date": "13/01/2021 00:00:00",
+      "end_date": "17/01/2021 00:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.sauravtest.com",
+      "description": "testing saurav",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 2,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": false
+    },
+    {
+      "id": 12,
+      "category_info": null,
+      "event_type_info": {
+        "id": 1,
+        "name": "Standard"
+      },
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 12:24:10",
+      "updated_at": "11/01/2021 12:24:10",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "event7",
+      "start_date": "26/09/2021 10:00:00",
+      "end_date": "26/09/2021 12:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "test description",
+      "video_link": null,
+      "is_refundable": false,
+      "category": null,
+      "event_type": 1,
+      "society": 28,
+      "is_favorite": false
+    },
+    {
+      "id": 11,
+      "category_info": null,
+      "event_type_info": {
+        "id": 1,
+        "name": "Standard"
+      },
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 11:55:55",
+      "updated_at": "11/01/2021 11:55:55",
+      "address": null,
+      "country": null,
+      "city": null,
+      "point": null,
+      "name": "event7",
+      "start_date": "26/09/2021 10:00:00",
+      "end_date": "26/09/2021 12:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "test description",
+      "video_link": null,
+      "is_refundable": false,
+      "category": null,
+      "event_type": 1,
+      "society": 28,
+      "is_favorite": true
+    },
+    {
+      "id": 10,
+      "category_info": {
+        "name": "Sports"
+      },
+      "event_type_info": null,
+      "society_info": {
+        "id": 28,
+        "name": "my first society11s"
+      },
+      "ticket_types": [],
+      "distance": 0.0,
+      "created_at": "11/01/2021 11:38:53",
+      "updated_at": "11/01/2021 11:38:53",
+      "address": "address test",
+      "country": "country test",
+      "city": "city test",
+      "point": "SRID=4326;POINT (14.665547 25.165173)",
+      "name": "event7",
+      "start_date": "26/09/2021 10:00:00",
+      "end_date": "26/09/2021 12:00:00",
+      "photo": null,
+      "banner": null,
+      "ticket_link": "http://www.test.com",
+      "description": "test description",
+      "video_link": null,
+      "is_refundable": false,
+      "category": 1,
+      "event_type": null,
+      "society": 28,
+      "is_favorite": false
+    }
+  ],
+  "total": 11
+}

@@ -1,0 +1,34 @@
+{
+ "fcm_subscribed_topics": [
+   {
+     "topic": "society_id_13", //a name of society_id_{HERE_ID_OF_FOLLOWED_SOCIETY}
+     "subscibed_at" : DATE_HERE, // date where the item added to the list
+     "notify" : true //by default true
+   },
+   {
+     "topic": "society_id_2",
+     "subscibed_at" : DATE_HERE,
+     "notify" : true
+   },
+   {
+     "topic": "society_id_12",
+     "subscibed_at" : DATE_HERE,
+     "notify" : false
+   },
+   {
+     "topic": "society_id_18",
+     "subscibed_at" : DATE_HERE,
+     "notify" : true
+   }
+ ]
+}
+
+each user have one fcm_subscribed_topics (One to One)
+
+GET {{HOST}}{{API}}user/fcm_subscribed_topics/  get list of fcm_subscribed_topics
+PUT {{HOST}}{{API}}user/fcm_subscribed_topics/society_id_18/ to update notify { "notify" :true } or { "notify" :false }
+DELETE {{HOST}}{{API}}user/fcm_subscribed_topics/society_id_18/ to delete an item of topic society_id_18 from fcm_subscribed_topics list
+POST {{HOST}}{{API}}user/fcm_subscribed_topics/ add new item to the list of fcm_subscribed_topics with condtions of limit 2000 items if excessded delete last item in the list
+and add new one on the top.
+
+fcm_subscribed_topics object can also fetched with Sign In JSON Response ONLY, POST {{HOST}}{{API}}user/signin/
