@@ -1,4 +1,4 @@
-# flutter_upwork_event_app_new
+# flutter_starter
 
 A new Flutter application.
 
